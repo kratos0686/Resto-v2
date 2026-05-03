@@ -1,0 +1,10 @@
+{
+  "name": "Remix: RestorationAI",
+  "description": "High-performance water restoration documentation ecosystem. AI-first workflow for psychrometrics, AR mapping, and compliance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "requestDataPermissions": {}
+}
